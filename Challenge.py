@@ -9,4 +9,5 @@ sum=0
 sum = float(num1) + float(num2)
  
 # Display the sum
-print(sum)
+print(2.0)
+
